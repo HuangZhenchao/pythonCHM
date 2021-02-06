@@ -1,4 +1,5 @@
 # pythonCHM
+#2021.02.06
 python调用hhc.exe来编译chm文档
 
 from pythonChm.pythonChm import pythonCHM
